@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+/tmp/
+
+# SQLite lock files
+*.db-journal
+
+# IDEs
+.idea/
+.vscode/
+build/
+.gradle/
